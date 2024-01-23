@@ -1,6 +1,6 @@
 ![Archetype Themes Logo](https://archetypethemes.co/cdn/shop/files/Frame_115_120x@3x.png)
 
-<img alt="Archetype Themes Logo" style="float: right;margin-left:20px;" src="archetype_themes_logo.jpeg">
+<img alt="Archetype Themes Logo" style="float: right;margin-left:20px;" src="./archetype_themes_logo.jpeg">
 
 # Hi, we’re Archetype
 
