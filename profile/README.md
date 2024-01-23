@@ -1,4 +1,4 @@
-<img alt="Archetype Themes Logo" align="right" src="https://github.com/archetype-themes/.github/blob/main/profile/archetype_themes_logo.jpeg">
+<img alt="Archetype Themes Logo" align="right" width="150" height="150" src="https://github.com/archetype-themes/.github/blob/main/profile/archetype_themes_logo.jpeg">
 
 # Hi, we’re Archetype
 
