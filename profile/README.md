@@ -1,8 +1,8 @@
-![Archetype Themes Logo](https://archetypethemes.co/cdn/shop/files/Frame_115_120x@3x.png)
 
-<img alt="Archetype Themes Logo" style="float: right;margin-left:20px;" src="./archetype_themes_logo.jpeg">
 
 # Hi, we’re Archetype
+
+<img alt="Archetype Themes Logo" align="right" src="https://github.com/archetype-themes/.github/blob/main/profile/archetype_themes_logo.jpeg">
 
 We make the branding, storytelling, and online selling experience easier with our collection of Premium Shopify themes.
 Whether you're a first-time Shopify user or an experienced developer, we have the best Shopify theme to make your next
