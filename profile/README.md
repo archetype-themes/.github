@@ -6,4 +6,4 @@ Whether you're a first-time Shopify merchant or an experienced theme developer, 
 
 ## Our Mission
 
-Archetype's mission here on Github is to lead the future of Shopify theme design and development. Alongside the rest of Shopify Theme community, we aim to establish standards, tools, resources, workflows, and best-practices that solve our biggest theme development pain points, and in turn lead to the highest quality online shopping experiences on the Web.
+Archetype's mission here on Github is to lead the future of Shopify theme design and development. Alongside the rest of Shopify Theme community, we aim to establish standards, tools, resources, workflows, and best-practices that solve our biggest theme development pain points and produce the highest quality online shopping experiences on the Web.
