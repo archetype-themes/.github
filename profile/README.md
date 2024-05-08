@@ -1,9 +1,9 @@
-# Hi, we’re Archetype
+# Welcome to Archetype Themes on Github
 
-We make branding, storytelling, and selling online easier with our collection of Premium Shopify themes.
+Welcome to Archetype Themes—the hub for theme builders dedicated to crafting outstanding digital experiences. Our mission is to equip developers, designers, and creators with advanced tools and a collaborative platform for innovation.
 
-Whether you're a first-time Shopify merchant or an experienced theme developer, our selection of Shopify themes will ensure your next project is a success.
+Explore our rich collection of themes, engage with our vibrant community, and utilize our detailed resources to enhance your skills. Whether you're an experienced developer or a newcomer, Archetype Themes supports your creative journey, helping you transform you better design and develop themes.
 
-## Our Mission
+**> Do you create or customize Shopify themes?** [Check out our open-source theme builder iniative, Archetype Devkit.](https://github.com/archetype-themes/devkit)
 
-Archetype's mission here on Github is to lead the future of Shopify theme design and development. Alongside the rest of the Shopify Theme community, we aim to establish standards, tools, resources, workflows, and best-practices that solve our biggest theme development pain points and produce the highest quality online shopping experiences on the Web.
+**> Are you a Shopify Merchant looking to upgrade your online store?** [Check out our collection of premium Shopify themes.](https://archetypethemes.co/collections/themes)
